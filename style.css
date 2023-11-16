@@ -1,0 +1,22 @@
+body{
+    background-color: lightskyblue;
+
+}
+.title{
+    text-align: center;
+    color: white;
+    background-color: black;
+    margin-top: 7%;
+}
+button {
+    margin-top: 3%;
+    margin-left: 47%;
+    background-color: #000;
+    border: .5px solid crimson;
+    border-radius: 10px;
+    color: #fff;
+    padding: 8px;
+    size: 5cm;
+    
+}
+
